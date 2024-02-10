@@ -1,0 +1,5 @@
+- Update update_db.py, instead of creating csv or another database, just create another table inside the turnstile.db
+- Make sure to put the turnstile.db to another folder, just one file.
+- Share this folder to Syncthing
+- Create a folder inside the Timelog to put there the turnstile.db
+- Update the database path
